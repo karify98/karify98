@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Nam Nguyen!
 
-<!--
-**karify98/karify98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior Backend Engineer | Team Manager | DevOps Enthusiast**  
 
-Here are some ideas to get you started:
+I specialize in **Node.js, Golang, and SQL**, with a strong focus on **serverless architecture, DevOps, and performance optimization**. Currently, I'm diving into **AI, automation, and workflow integration** to enhance system scalability and efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages**: Node.js (Preferred), Golang, Python (Learning)  
+- **Database**: PostgreSQL, SQL Optimization  
+- **Cloud & DevOps**: AWS (Lambda, API Gateway, Cognito, RDS, S3), GCP, Cloudflare  
+- **Automation**: CI/CD, Infrastructure as Code (IaC), Serverless  
+
+## 🔍 Currently Learning
+- **AI & AI Agents** for workflow automation  
+- **Python** for backend & AI development  
+- **Advanced DevOps** practices  
+
+## ⚡ Currently Hacking On
+- AI-powered **automation tools** for DevOps workflows  
+- Serverless backend **boilerplate** for scalable applications  
+- Optimizing API & database **performance**  
+
+## 📬 Connect with Me
+- 🌍 **GitHub**: [@karify98](https://github.com/karify98)  
+- ✍ **Blog (Coming soon!)**  
+
+💡 **Always exploring new tech & building solutions!** 🚀  
