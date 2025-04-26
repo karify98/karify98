@@ -22,6 +22,6 @@ I specialize in **Node.js, Golang, and SQL**, with a strong focus on **serverles
 
 ## 📬 Connect with Me
 - 🌍 **GitHub**: [@karify98](https://github.com/karify98)  
-- ✍ **Blog (Coming soon!)**  
+- ✍ **Blog**: https://karify98.is-a.dev/  
 
 💡 **Always exploring new tech & building solutions!** 🚀  
